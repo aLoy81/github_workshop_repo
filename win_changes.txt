@@ -4,4 +4,8 @@ Did you see them?
 
 Why don't you read me :(
 
+<<<<<<< HEAD
+But, I DO read you!
+=======
 I feel lonely
+>>>>>>> refs/remotes/origin/main
